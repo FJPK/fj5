@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://FJPK.github.io/fj5/sitemap.xml

@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "FJ5",
+    "description": "",
+    "home_page_url": "https://FJPK.github.io/fj5",
+    "feed_url": "https://FJPK.github.io/fj5/feed.json",
+    "user_comment": "",
+    "icon": "https://FJPK.github.io/fj5/media/website/FJ-logo-final.png",
+    "author": {
+        "name": "drxyz"
+    },
+    "items": [
+    ]
+}
